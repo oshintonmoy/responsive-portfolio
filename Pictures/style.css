@@ -1,0 +1,50 @@
+
+#flip {
+  margin-bottom: 30px;
+}
+
+form {
+  background: white;
+  width: 50%;
+  margin-top: 30px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  border: black 1px solid 
+}
+
+body {
+  background: lightblue;
+  min-height: 400px;
+  margin-bottom: 100px;
+}
+
+#card {
+  margin-top: 30px;  
+}
+
+.cardimg {
+  margin-bottom: 30px;
+  margin-left: 10px;
+}
+
+.card-title {
+  margin-left: 10px;
+}
+
+#pictureBox {
+  margin: 5em;
+  background: white;
+  margin-right: 10px; 
+}
+
+.photo_list {
+  width:350px;
+  max-height: 350px;
+  padding: 10px; 
+}
+
+#sticky-footer {
+  bottom: 0;
+  width: 100%;
+  position: fixed;
+}
